@@ -18,15 +18,25 @@ GitHub Actions (opcional para CI/CD)
 
 
 📁 Estrutura Completa do Projeto
+
 project/
+
 │── cypress/
+
 │ ├── e2e/
+
 │ │ └── saucedemo.cy.js
+
 │ ├── fixtures/
+
 │ ├── support/
+
 │── node_modules/
+
 │── package.json
+
 │── package-lock.json
+
 │── README.md
 
 
